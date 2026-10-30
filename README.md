@@ -50,10 +50,6 @@ nano mail-sieve.conf rules.conf whitelist.txt
 ./apply.sh
 ```
 
-Для обновления распакуйте новый архив и снова запустите `./install.sh`. Конфиги останутся прежними.
-Новые параметры (например, `EXTRA_FOLDERS`) в старый `mail-sieve.conf` нужно дописать вручную,
-образец лежит в архиве.
-
 ## Настройка
 
 ### mail-sieve.conf
